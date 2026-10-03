@@ -7,58 +7,45 @@
 
 **Theme:**
 
-TODO: Name and briefly describe your game's theme.
+Warehouse Mystery — A mystery adventure game set inside a large warehouse during the night shift.
 
 **Storyline:**
-
-TODO: In one short paragraph, explain the setting, the player's goal, the items
-the player must gather, and the threat created by the villain.
+The player is working the night shift at a large warehouse when several expensive shipments are discovered missing. The player realizes that the person responsible is still somewhere inside the warehouse. The player's goal is to explore the warehouse and collect six pieces of evidence before encountering the Warehouse Thief. If the player collects all six items before entering the Manager's Office, the player wins. If the player encounters the Warehouse Thief before collecting all six items, the player loses.
 
 ## Rooms
-
-Project One requires a minimum of eight rooms.
-
-1. TODO: Start room
-2. TODO: Room
-3. TODO: Room
-4. TODO: Room
-5. TODO: Room
-6. TODO: Room
-7. TODO: Room
-8. TODO: Villain room
-
-Add more rooms if your design needs them.
+1.Inventory Office — Start room  
+2.Receiving Area  
+3.Freezer  
+4.Break Room  
+5.Shipping Area  
+6.Storage Area  
+7.Security Office  
+8.Manager's Office — Villain room
 
 ## Items
 
-With the minimum eight-room design, Project One requires at least six items.
-Every room except the start room and villain room must contain one item.
-
-1. TODO: Item
-2. TODO: Item
-3. TODO: Item
-4. TODO: Item
-5. TODO: Item
-6. TODO: Item
-
-If you add rooms beyond the minimum, add an item for every additional room
-except the start room and villain room.
+1.Shipping Manifest — Receiving Area  
+2.Dropped Keycard — Freezer  
+3.Cell Phone — Break Room  
+4.Torn Shipping Label — Shipping Area  
+5.Flashlight — Storage Area  
+6.Security Footage — Security Office
 
 ## Villain
 
-TODO: Identify and briefly describe the villain.
+The villain is the Warehouse Thief, who is hiding in the Manager's Office. The player must collect all six pieces of evidence before entering the Manager's Office. If the player encounters the Warehouse Thief before collecting all six items, the player loses.
 
 ## Storyboard and Map Check
 
 Before submitting, compare this storyboard with `game_map.drawio`.
 
-* [ ] I included eight (8) rooms.
-* [ ] I included six (6) collectable items.
-* [ ] The start room has no item.
-* [ ] The villain room has no item.
-* [ ] Every room except the start room and villain room contains one item.
-* [ ] Room, item, and villain names match my map.
-* [ ] The map allows the player to collect all required items before the
+* [x] I included eight (8) rooms.
+* [x] I included six (6) collectable items.
+* [x] The start room has no item.
+* [x] The villain room has no item.
+* [x] Every room except the start room and villain room contains one item.
+* [x] Room, item, and villain names match my map.
+* [x] The map allows the player to collect all required items before the
   villain is encountered.
 
 ## Project Two Handoff
